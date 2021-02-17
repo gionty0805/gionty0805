@@ -3,7 +3,6 @@
 --------
 
 - github : https://github.com/gionty0805
-- portfolio : https://portfolio.bits-work.com
 - site 
   - portfolio : https://portfolio.bits-work.com
   - skill library : https://bits-work.com
