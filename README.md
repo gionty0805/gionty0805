@@ -34,8 +34,10 @@ WEB 및 Application 개발 업무를 수행하고 있으며, 최신 IT 스킬들
 
    내용                                |  상세                                       |  SKILLS
 ---------------------------------------|------------------------------------------- |--------------------------------------------------------------------------------------
+[서비스] SYMPONY APP                    |APP 기반의 알림봇&채팅 프로그램 개발          | AWS Lightsail / Node.js / React / GIT / Firestore
 [서비스] WORKAHOLIC                     |APP 기반의 워크 플랫폼 개발 및 서비스          | AWS Lightsail / Node.js / Flutter / GIT / Firestore
-[서비스] 동네축구                        |축구/풋살 기록 및 통계분석 APP 개발 및 서비스  | AWS EC2 / Node.js / Flutter / GIT / Mysql
+[서비스] 동네축구 Web                    |축구/풋살 기록 및 관리프로그램 개발            | AWS EC2 / Node.js / React / GIT / Mysql
+[서비스] 동네축구 APP                    |축구/풋살 기록 및 통계분석 APP 개발 및 서비스  | AWS EC2 / Node.js / Flutter / GIT / Mysql
 [프로젝트 운영] SK하이닉스 통근시스템      |SK 하이닉스 통근시스템 개발 및 운영           | Spring Framework / MSSQL / Android(java)
 [프로젝트 개발] SK DTG 분석 시스템        |축구/풋살 기록 및 통계분석 APP 개발 및 서비스  | Node.js / Javascript / JQuery
 [프로젝트 개발] 한국일보 채팅상담 프로그램 |그룹사 채팅상담프로그램 개발  | Spring Framework / Restful API / MSSQL 
