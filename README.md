@@ -9,6 +9,7 @@
 - email : gionty0805@gmail.com
 
 WEB 및 Application 개발 업무를 수행하고 있으며, 최신 IT 스킬들을 지속적으로 공부하여 뒤쳐지지 않도록 애쓰고있는 개발자.
+Private Repository로 작업중인 프로젝트가 많아, 필요시 Public 전환 예정입니다.
 
 경력 및 자격
 --------------------
