@@ -41,7 +41,7 @@ Private Repository로 작업중인 프로젝트가 많아, 필요시 Public 전�
 [서비스] 동네축구 Web                    |축구/풋살 기록 및 관리프로그램 개발            | AWS EC2 / Node.js / React / GIT / Mysql
 [서비스] 동네축구 APP                    |축구/풋살 기록 및 통계분석 APP 개발 및 서비스  | AWS EC2 / Node.js / Flutter / GIT / Mysql
 [프로젝트 운영] SK하이닉스 통근시스템      |SK 하이닉스 통근시스템 개발 및 운영           | Spring Framework / MSSQL / Android(java)
-[프로젝트 개발] SK DTG 분석 시스템        |축구/풋살 기록 및 통계분석 APP 개발 및 서비스  | Node.js / Javascript / JQuery
+[프로젝트 개발] SK DTG 분석 시스템        |SK 하이닉스 차량 DTG 데이터 안전운전 습관 분석  | Node.js / Javascript / JQuery
 [프로젝트 개발] 한국일보 채팅상담 프로그램 |그룹사 채팅상담프로그램 개발  | Spring Framework / Restful API / MSSQL 
 [프로젝트 운영] 한국일보 영업관리시스템  |그룹사 영업관리 시스템 개발 및 유지보수  | Spring Framework / MSSQL
 
