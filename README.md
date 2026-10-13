@@ -36,6 +36,8 @@ Private Repository로 작업중인 프로젝트가 많아, 필요시 Public 전�
 
    내용                                |  상세                                       |  SKILLS
 ---------------------------------------|------------------------------------------- |--------------------------------------------------------------------------------------
+[프로젝트 개발] SKHDC 시스템 개발 | 데이터센터 관리 프로그램 개발  | Nuxt.js / Vue.js / Claude Code  
+[프로젝트 개발] 사내 통합구매 시스템 구축| 통합 구매 시스템 구축 및 SAP 연동  | Java SpringFramework / SOAP  
 [프로젝트 개발] 시스템 모니터링 서비스 구축|통합 시스템 모니터링 및 Alert 서비스 구축     | AWS EC2 / Docker / Prometheus / GIT 
 [프로젝트 개발] SK하이스텍 통합알림시스템  |SK하이스텍 통합 알림 시스템 개발             | Nest.js / React / GIT / ORM
 [서비스] SYMPONY APP                    |APP 기반의 알림봇&채팅 프로그램 개발          | AWS Lightsail / Node.js / React / GIT / Firestore
