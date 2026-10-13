@@ -4,8 +4,7 @@
 
 - github : https://github.com/gionty0805
 - site 
-  - portfolio : https://portfolio.bits-work.com
-  - skill library : https://bits-work.com
+  - portfolio :  https://bansugi.vercel.app/
 - email : gionty0805@gmail.com
 
 WEB 및 Application 개발 업무를 수행하고 있으며, 최신 IT 스킬들을 지속적으로 공부하여 뒤쳐지지 않도록 애쓰고있는 개발자.
